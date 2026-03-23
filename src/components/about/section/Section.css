@@ -1,0 +1,14 @@
+section {
+    display: flex;
+    justify-content: space-between;
+    padding: 135px 30px;
+
+}
+section h1 {
+    font-size: 54px;
+}
+section p {
+    font-size: 16px;
+    font-family: Regular;
+}
+

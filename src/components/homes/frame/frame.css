@@ -1,0 +1,45 @@
+.Categories {
+    display: flex;
+    padding: 50px 30px;
+    background-color: #000000;
+    color: white;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+
+.Categories p{
+    color: green;
+}
+
+.Categories h2 {
+    font-size: 48px;
+}
+
+.div img {
+    width: 600px;
+    height: 420px;
+}
+
+.buttons button {
+    width: 62px;
+    height: 62px;
+    border-radius: 50px;
+    color: #000000;
+
+}
+.buttons {
+    display: flex;
+    gap: 24px;
+}
+
+.buy-now {
+    margin-top: 50px;
+    width: 171px;
+    height: 56px;
+    background-color: green;
+    color: white;
+    border: 0px;
+}
+
+
+

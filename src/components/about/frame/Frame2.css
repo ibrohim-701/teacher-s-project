@@ -1,0 +1,11 @@
+.tom-emma-will {
+    display: flex;
+    padding: 50px 30px;
+    justify-content: space-around;
+}
+
+.tom-emma-will img {
+    width: 370px;
+    height: 430px;
+
+}

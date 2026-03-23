@@ -1,0 +1,21 @@
+.card3 {
+    display: flex;
+    padding: 50px 30px;
+    gap:  30px;
+}
+
+.card3 div {
+    border: 1px solid grey;
+    
+     text-align: center;
+    width: 200px;
+    height: 200px;
+    padding: 5px 5px;
+
+}
+
+.card-mopnthly {
+    border: none;
+    color: black;
+}
+
